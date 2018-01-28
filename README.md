@@ -40,7 +40,7 @@ Maybe? I might be adding some features if and when I need them myself, but after
 # Examples
 Here is a screenshot of [the demo project](https://github.com/RubrumExPlaneta/godot-textbox/tree/master/demo/TextBox_demo).
 
-![](https://github.com/RubrumExPlaneta/godot-textbox/tree/master/demo/screenshot.png)
+![](https://github.com/RubrumExPlaneta/godot-textbox/raw/master/demo/screenshot.png)
 
 Here are some pictures of what this asset can be used to create. Please do note, however, that these text boxes weren't *actually* created with this asset.
 
