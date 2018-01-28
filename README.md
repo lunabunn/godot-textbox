@@ -13,28 +13,28 @@
 This is a simple, highly customizable *JRPG-style dialogue box asset* I created for **Godot 2.1.4**. This might work on other versions of Godot, but I will only make bug fixes and such for Godot 2.1.4–please do not submit bug reports/pull requests for other versions of Godot.
 
 ## What this asset **CAN** do out of the box...
-    * Text Boxes (with customizable layout)
-    * Name Tags (per dialog)
-    * Face Chips (or, portraits, per dialog)
-    * Typing effect (with customizable speed and skip feature)
-    * Shaking text (with customizable strength/speed)
-    * Automatic Line Breaks
+* Text Boxes (with customizable layout)
+* Name Tags (per dialog)
+* Face Chips (or, portraits, per dialog)
+* Typing effect (with customizable speed and skip feature)
+* Shaking text (with customizable strength/speed)
+* Automatic Line Breaks
 
 ## What this asset **CANNOT** do out of the box...
-    * Formatted text (bold**, italic, color, etc.)
-    * Partial shaking effect (only part of text shaking)
-    * Different Fonts
-    * Name shaking effect
-    * Questions
-    * Transitions
-    * Scrolling
-    * ...and a lot of other things
+* Formatted text (bold**, italic, color, etc.)
+* Partial shaking effect (only part of text shaking)
+* Different Fonts
+* Name shaking effect
+* Questions
+* Transitions
+* Scrolling
+* ...and a lot of other things
 
 ## What do you mean, out of the box?
 I say out of the box, because this asset is very easy to customize, and you can add many different features by making simple alterations to the code so that it fits your needs. (If you do decide to add new features, you will have to distribute it under the CC BY-SA 4.0 International license so that others can use it, or, even better, submit a pull request)
 
 ## Will new features be added in the future?
-Maybe? I might be adding some features if and when I need them myself, but after I add all the features listed in the TO-DO list above (if I ever do), I don't really think I'll be actively adding any more features. Nevertheless–if you have suggestions, try submitting them to [https://github.com/RubrumExPlaneta/godot-textbox/issues](https://github.com/RubrumExPlaneta/godot-textbox/issues) with the `enhancement` label. Who knows, maybe I'll implement them! :)
+Maybe? I might be adding some features if and when I need them myself, but other than questions (even question I might not add), I don't really have a specific TODO list in mind. Nevertheless–if you have suggestions, try submitting them to [https://github.com/RubrumExPlaneta/godot-textbox/issues](https://github.com/RubrumExPlaneta/godot-textbox/issues) with the `enhancement` label. Who knows, maybe I'll implement them! :)
 
 
 # Examples
