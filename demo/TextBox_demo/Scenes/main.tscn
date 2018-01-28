@@ -1,0 +1,31 @@
+[gd_scene load_steps=3 format=1]
+
+[ext_resource path="res://Scenes/Text Box.tscn" type="PackedScene" id=1]
+[ext_resource path="res://Scripts/demo.gd" type="Script" id=2]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="TextBox" parent="." instance=ExtResource( 1 )]
+
+font = "Fonts/pixel_operator.fnt"
+name_font = "Fonts/pixel_operator_bold.fnt"
+typing_effect = true
+trigger = "mouse_left"
+
+[node name="Portrait" parent="TextBox"]
+
+transform/pos = Vector2( 176, 336 )
+
+[node name="Name" parent="TextBox"]
+
+transform/pos = Vector2( 176, 416 )
+
+[node name="Demo" type="Node2D" parent="."]
+
+script/script = ExtResource( 2 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+
+[editable path="TextBox"]
